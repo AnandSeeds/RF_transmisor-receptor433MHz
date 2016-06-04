@@ -1,3 +1,4 @@
+//Hecho con Arduino 1.6.9
 #include <VirtualWire.h>
 byte message[VW_MAX_MESSAGE_LEN]; // a buffer to store the incoming messages
 byte messageLength = VW_MAX_MESSAGE_LEN; // the size of the message
