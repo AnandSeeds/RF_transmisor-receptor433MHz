@@ -1,4 +1,4 @@
-# RF_transmisor-receptor433MHz
+# RF transmisor-receptor 433MHz
 ![Modulos RF](http://tinkersphere.com/1188-thickbox_default/rf-link-transmitter-receiver-module-pair-433mhz-or-315mhz-for-arduino-raspberry-pi-b-b.jpg "Modulos RF")
 
 # Transmisor inalámbrico
@@ -13,8 +13,10 @@ Ideal para proyectos de control remoto o transferencias de datos a un objeto rem
 7. Potencia de emisión: 10 mW
 8. Frecuencia de transmisión: 315 Mhz
 9. Una antena externa: 25cm ordinaria de núcleos múltiples o de un solo núcleo  
+
 ![Esclavo](https://raw.githubusercontent.com/AnandSeeds/RF_transmisor-receptor433MHz/master/fotos/photo31923861007215269.jpg "Atmega328")
 ![Transmisor](https://raw.githubusercontent.com/AnandSeeds/RF_transmisor-receptor433MHz/master/fotos/photo31923861007215270.jpg "Transmisor 315 MHz")
+
 # Receptor de radio compacto
 
 Trabaja directamente con el transmisor por encima de una frecuencia de operación de 433,92 MHz. Adecuado para velocidades de datos de hasta 4.8KHz, y la corriente de funcionamiento típica es solamente 4,5 mA.
@@ -24,5 +26,6 @@ Trabaja directamente con el transmisor por encima de una frecuencia de operació
 3. Corriente en reposo: 4 mA
 4. Recepción de frecuencia: 315Mhz
 5. Sensibilidad del receptor: -105Db
+
 ![Maestro](https://raw.githubusercontent.com/AnandSeeds/RF_transmisor-receptor433MHz/master/fotos/photo31923861007215271.jpg "Arduino Mega")
-![Receptor](https://raw.githubusercontent.com/AnandSeeds/RF_transmisor-receptor433MHz/master/fotos/photo31923861007215271.jpg "Receptor 315MHz")
+![Receptor](https://raw.githubusercontent.com/AnandSeeds/RF_transmisor-receptor433MHz/master/fotos/photo31923861007215272.jpg "Receptor 315MHz")
